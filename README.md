@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arenbatu
 - 👀 I’m interested in wordpress
 - 🌱 I’m currently learning amp
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AMP
 - 📫 How to reach me arenbatu.com
 
 <!---
